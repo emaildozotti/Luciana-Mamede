@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
             A liberdade começa quando você decide encarar sua história de frente. Eu estou pronta para te receber.
           </p>
           <a
-            href="https://wa.me/5511980197788?text=Ola%20Luciana%2C%20vim%20do%20seu%20site%20e%20gostaria%20de%20agendar%20uma%20sess%C3%A3o."
+            href="https://wa.me/5511940260569?text=Ola%20Luciana%2C%20vim%20do%20seu%20site%20e%20gostaria%20de%20agendar%20uma%20sess%C3%A3o."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-8 py-4 text-base font-bold bg-white text-moss-900 rounded-full shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all duration-300 ease-in-out"
